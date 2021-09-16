@@ -16,6 +16,7 @@ public class Sptv20_GitProb {
      */
     public static void main(String[] args) {
         System.out.println("Fir1");
+        System.out.println("second");
         // TODO code application logic here
     }
     
